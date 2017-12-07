@@ -1,36 +1,33 @@
-Dopetrope by HTML5 UP
-html5up.net | @n33co
+Massively by HTML5 UP
+html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 
-A spiffy new blog/magazine style responsive site template with a flat/minimal
-design aesthetic.
+This is Massively, a text-heavy, article-oriented design built around a huge background
+image (with a new parallax implementation I'm testing) and scroll effects (powered by
+Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
+that fulfills a few user requests and makes use of some new techniques I've been wanting
+to try out. Enjoy it :)
 
-Demo images* are courtesy of the incredibly talented Janine Pring aka Dreametry Doodle.
-See more of her amazing work (and her awesome t-shirt line) @ dreametrydoodle.com
+Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
+you can use for pretty much whatever.
 
-(* = Not included! Only meant for use with my own on-site demo, so please do NOT download
-and/or use any of Janine's work without her explicit permission!)
-
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
+(* = not included)
 
 AJ
-n33.co @n33co dribbble.com/n33
+aj@lkn.io | @ajlkn
 
 
 Credits:
 
 	Demo Images:
-		Dreametry Doodle (dreametrydoodle.com)
+		Unsplash (unsplash.com)
 
 	Icons:
 		Font Awesome (fortawesome.github.com/Font-Awesome)
 
 	Other:
 		jQuery (jquery.com)
-		html5shiv.js (@afarkas @jdalton @jon_neal @rem)
-		CSS3 Pie (css3pie.com)
-		background-size polyfill (github.com/louisremi)
-		Respond.js (j.mp/respondjs)
-		jquery.dropotron (n33.co)
+		Misc. Sass functions (@HugoGiraudel)
 		Skel (skel.io)
+		Scrollex (github.com/ajlkn/jquery.scrollex)
